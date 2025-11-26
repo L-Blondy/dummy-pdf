@@ -4,4 +4,4 @@ This repository contains a safe PDF file that can be used for testing purposes. 
 
 ## PDF File
 
-- [Download the dummy PDF](https://github.com/L-Blondy/dummy-pdf/raw/main/dummy.pdf)
+https://github.com/L-Blondy/dummy-pdf/raw/main/dummy.pdf
